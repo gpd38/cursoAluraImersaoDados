@@ -27,3 +27,9 @@ Aula|Dia
 
 ### Fórum (Material/Geral/Dúvidas/Resultado)
 - [Fórum de discussão - ]()
+
+### Links comentados durante as aulas
+- []()
+- []()
+- []()
+
