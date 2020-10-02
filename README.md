@@ -25,3 +25,5 @@ Aula|Dia
 - [Material Aula04 - Otimizando os hiperparâmetros](#)
 - [Material Aula05 - Storytelling em Data Science](#)
 
+### Fórum (Material/Geral/Dúvidas/Resultado)
+- [Fórum de discussão - ]()
