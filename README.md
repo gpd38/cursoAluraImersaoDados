@@ -12,8 +12,16 @@ Aula|Dia
 05|23/10/20
 
 ### Links dos materiais no alura
-- [Material Aula01 - Sua primeira análise de dados]()
-- [Material Aula02 - Análise Exploratória de Dados]()
-- [Material Aula03 - Entendendo o que é Machine Learning]()
-- [Material Aula04 - Otimizando os hiperparâmetros]()
-- [Material Aula05 - Storytelling em Data Science]()
+- [Material Aula01 - Sua primeira análise de dados](#)
+- [Material Aula02 - Análise Exploratória de Dados](#)
+- [Material Aula03 - Entendendo o que é Machine Learning](#)
+- [Material Aula04 - Otimizando os hiperparâmetros](#)
+- [Material Aula05 - Storytelling em Data Science](#)
+
+### Links das vídeo aulas
+- [Material Aula01 - Sua primeira análise de dados](#)
+- [Material Aula02 - Análise Exploratória de Dados](#)
+- [Material Aula03 - Entendendo o que é Machine Learning](#)
+- [Material Aula04 - Otimizando os hiperparâmetros](#)
+- [Material Aula05 - Storytelling em Data Science](#)
+
