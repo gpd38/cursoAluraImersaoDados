@@ -26,10 +26,38 @@ Aula|Dia
 - [Material Aula05 - Storytelling em Data Science](#)
 
 ### Fórum (Material/Geral/Dúvidas/Resultado)
-- [Fórum de discussão - ]()
+- [Fórum de discussão - Slack]()
 
 ### Links comentados durante as aulas
 - []()
 - []()
 - []()
+
+### Informações sobre os palestrantes/participantes
+Thiago Gonçalves
+- [Twitter](https://twitter.com/tgcsantos)
+- [Github](https://github.com/tgcsantos)
+- [Linkedin](https://www.linkedin.com/in/thiago-gon%C3%A7alves-santos/)
+
+Thainá Mariani
+- [Twitter](https://twitter.com/thainamariani)
+- [Github](https://github.com/thainamariani)
+- [Linkedin](https://www.linkedin.com/in/thainamariani/)
+
+Maria Gabriela Cuenca
+- [Github](https://github.com/mgabrielacuenca)
+- [Linkedin](https://www.linkedin.com/in/mgabrielacuenca/)
+
+Guilherme Silveira
+- [Twitter](https://twitter.com/guilhermecaelum)
+- [Github](https://github.com/guilhermesilveira)
+- [Linkedin](https://www.linkedin.com/in/guilhermeazevedosilveira/)
+
+### HashTags
+
+#ImersaoDados com @aluraonline e @DataHackers
+
+### Considerações
+
+OBS.: Para se cadastrar na alura e receber notificações de possíveis novas imersões acesse a url http://caelum.rds.land/receba-um-aviso
 
